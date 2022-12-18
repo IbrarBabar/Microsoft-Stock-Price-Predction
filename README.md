@@ -3,10 +3,10 @@ The Repo includes Data Science project name as (Microsoft Stock Price Prediction
 Here I trained different deep-learning models to predict Microsoft Stock Prices on Kaggle dataset for better accuracy. And we gain minimum Root Mean Square Error using the LSTM model having RMSE 11.222516%. 
 Time series forecasting is a very intriguing field to work with. There is a perception in the community that it’s a complex field, and while there is a grain of truth in there, it’s not so difficult once you get the hang of the basic techniques. I am interested in finding out how LSTM works on a different kind of time series problem and encourage you to try it out on your own as well. If you have any questions, feel free to connect with me in the comments section below.
 
-<h1>**What exactly is the stock market?**</h2>
+<h1>What exactly is the stock market?</h2>
 The stock market is a collection of markets and exchanges where regular activities such as buying, selling, and issuance of publicly traded company shares take place. Such financial activities are carried out through institutionalized formal exchanges or over-the-counter (OTC) marketplaces that follow a set of rules. A country or region may have multiple stock trading venues that allow transactions in stocks and other forms of securities.
 
-**Understanding the Problem Statement**
+<h3>Understanding the Problem Statement</h3>
 We'll get into the implementation part of this article soon, but first, we need to define what we're trying to solve. Fundamental analysis and technical analysis are the two broad categories of stock market analysis.
 1. Fundamental Analysis is the process of forecasting a company's future profitability based on its current business environment and financial performance.
 2. Technical analysis, on the other hand, entails reading charts and analyzing statistical data to identify stock market trends.
